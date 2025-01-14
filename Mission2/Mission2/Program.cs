@@ -1,4 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Boston Underwood
+// Section 001
+// Mission 2 Assignment - Dice Roll Simulator
 
 using Mission2;
 
